@@ -1,3 +1,1 @@
-# AWS Certificate Management
-
-Repo for AWS certificate automation.
+repo for AWS certificate automation
